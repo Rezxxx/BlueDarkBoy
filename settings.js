@@ -29,7 +29,7 @@ global.region = 'India'// bebas
 // Keperluan buttons
 global.myweb = 'https://youtube.com/channel/UCsW_AlY7e4x4LhSatFlsWsA'
 global.sc = 'https://github.com'
-global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'// GRUP LU 
+global.grupowner ='https://chat.whatsapp.com/KUcZNR6oOD98MctCkBEW7B'// GRUP LU 
 // Wm
 global.packname = 'BDKT'//BEBAS
 global.author = 'vz'
