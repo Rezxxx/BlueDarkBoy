@@ -16,22 +16,22 @@ global.APIKeys = {
 }
 
 // Owner
-global.owner = ['6282115946480','6282115946480','6282115946480']
-global.ownernomer = '6282115946480 '
-global.premium = ['6282115946480']
-global.ownername = 'KIKI VZ'
-global.botname = 'VraaBotz'
-global.footer = 'cerated by kiki vz'
-global.email = 'vraakeren@gmail.com'
-global.ig = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
-global.region = 'jepang'// bebas
+global.owner = ['6288298036183']
+global.ownernomer = '6288298036183 '
+global.premium = ['6288298036183']
+global.ownername = 'BlueDarkYT'
+global.botname = 'BlueDarkBoy'
+global.footer = 'cerated by BlueDarkYT'
+global.email = 'soon'
+global.ig = 'https://youtube.com/channel/UCsW_AlY7e4x4LhSatFlsWsA'
+global.region = 'India'// bebas
 
 // Keperluan buttons
-global.myweb = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
-global.sc = 'https://github.com/kikivz/vraabot-MD'
+global.myweb = 'https://youtube.com/channel/UCsW_AlY7e4x4LhSatFlsWsA'
+global.sc = 'https://github.com'
 global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'// GRUP LU 
 // Wm
-global.packname = 'kiki'//BEBAS
+global.packname = 'BDKT'//BEBAS
 global.author = 'vz'
 
 // Thumb & Image random
